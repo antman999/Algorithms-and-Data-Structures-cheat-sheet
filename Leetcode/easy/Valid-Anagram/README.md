@@ -16,3 +16,7 @@ An Anagram is a word or phrase formed by rearranging the letters of a different 
 
 - `1 <= s.length, t.length <= 5 * 104`
 - `s` and `t` consist of lowercase English letters.
+
+
+**Approach:**
+This is using the frequency counter approach from the Algorithms section in this github repo.
