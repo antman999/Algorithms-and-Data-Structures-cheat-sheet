@@ -18,3 +18,27 @@ In simpler terms this is how we describe the complexity of our code.
 ![big O graph](https://cdn-media-1.freecodecamp.org/images/1*KfZYFUT2OKfjekJlCeYvuQ.jpeg)
 
 ### Examples of Big O
+
+#### O(1)
+
+This function below will always have 3 operations no matter the input 1 or 10000.
+
+```
+function addUpTo(n){
+    return n * (n+1) / 2;
+}
+```
+
+#### O(n)
+
+Number of operations is bounded my mutiple of n.
+
+```
+function addUpTo(n){
+   let total = 0;
+   for(let i = 1; i <=n; i++){
+    total += i;
+   }
+   return total
+}
+```
