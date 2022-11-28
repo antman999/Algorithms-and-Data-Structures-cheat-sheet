@@ -20,3 +20,7 @@ An Anagram is a word or phrase formed by rearranging the letters of a different 
 
 **Approach:**
 This is using the frequency counter approach from the Algorithms section in this github repo.
+
+
+**Time complexity:**
+**o(n)**
