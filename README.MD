@@ -2,6 +2,8 @@
 
 This github page is where I will document all my progress on Algorithms, Data structures and leetcode problems/solutions with details on the solutions.
 
+**note: This info is just for me but made public to track myself and based out of multiple courses and problems I will do. I will leave links for the courses and problems below. 🙏**
+
 ### What is Big O
 
 <blockquote>
