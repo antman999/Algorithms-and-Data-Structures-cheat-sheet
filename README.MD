@@ -16,7 +16,7 @@ In simpler terms this is how we describe the complexity of our code.
 ### What does Big O look like
 
 ![big O graph](https://cdn-media-1.freecodecamp.org/images/1*KfZYFUT2OKfjekJlCeYvuQ.jpeg)
-![big O cheat sheet](https://res.cloudinary.com/practicaldev/image/fetch/s--7xoWYVac--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/s67yh2hsgfwrg6w08skj.png)
+![big O cheat sheet](https://www.bigocheatsheet.com/img/big-o-cheat-sheet-poster.png)
 
 ### Basic examples of Big O
 
