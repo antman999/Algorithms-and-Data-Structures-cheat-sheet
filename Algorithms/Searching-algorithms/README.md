@@ -1,5 +1,7 @@
 ### Linear searching
 
+![linear vs binary](https://blog.penjee.com/wp-content/uploads/2015/04/binary-and-linear-search-animations.gif)
+
 #### Problem
 
 lets say we have an array of 50 states all ordered and the user enters a state how do we find it?
