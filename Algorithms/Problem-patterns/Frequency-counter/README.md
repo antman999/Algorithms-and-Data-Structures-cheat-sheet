@@ -12,6 +12,11 @@ We could use this approach when we need to compare multiple pieces of data / inp
 - Two sum
 - Value is contained in another object
 
+### Keywords to look for in challenge
+
+- Compare these two inputs.
+- Does this first one match to the second one?
+
 ### Example
 
 Write a function called `same` that takes 2 arrays and returns true if all values in one array are the squared value in the other array.
