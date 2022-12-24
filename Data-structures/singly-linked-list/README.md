@@ -20,11 +20,11 @@ A DS that is very similiar to an array but contains a head, tail and length as p
 
 ### BIG O
 
-|Method|SSL|Array
-|insertion| o(1) | o(n)
-|removal| o(n) o(1) if removed from beginning | o(1) pop / o(n) from beginning
-|searching|o(n)| o(1)
-|access|o(n)|o(1)
+| Method               |                 SLL                 |                          Array |
+| -------------------- | :---------------------------------: | -----------------------------: |
+| insertion            |                o(1)                 |                           o(n) |
+| removal              | o(n) o(1) if removed from beginning | o(1) pop / o(n) from beginning |
+| searching and access |                o(n)                 |                           o(1) |
 
 SLL are great for insertion and deletion instead of arrays
 Arrays contains built in index (o1 for searching and access) whereas SLL dont.
