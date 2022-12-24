@@ -27,4 +27,4 @@ A DS that is very similiar to an array but contains a head, tail and length as p
 |access|o(n)|o(1)
 
 SLL are great for insertion and deletion instead of arrays
-Arrays contains built in index (o1 for searching and access) whereas SLL dont
+Arrays contains built in index (o1 for searching and access) whereas SLL dont.
