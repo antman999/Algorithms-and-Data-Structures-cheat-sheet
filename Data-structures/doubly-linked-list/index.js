@@ -164,4 +164,25 @@ class DoublyLinkedList {
     this.length--;
     return removedNode;
   }
+
+  reverse() {
+    let temp = null;
+    let current = this.head;
+
+    /* Swap next and prev for all nodes of
+       doubly linked list */
+    while (current != null) {
+      temp = current.previous;
+      current.previous = current.next;
+      current.next = temp;
+      current = current.previous;
+    }
+
+    /* Before changing head, check for the cases 
+       like empty list and list with only one node */
+    if (temp != null) {
+      this.head = temp.previous;
+    }
+    return this;
+  }
 }
